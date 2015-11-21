@@ -1,5 +1,7 @@
 # phpvbs
-php.vbs implements VB Script functions in vb and asp http://phpvbs.verygoodtown.com/
-# php.vbs
+php.vbs is a resource that offers community-built VB Script alternatives to PHP functions.
 
-##must include language/*.vbs
+More info at: http://phpvbs.verygoodtown.com/about
+
+#Sponsor development
+http://blog.verygoodtown.com/
