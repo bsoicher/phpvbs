@@ -9,7 +9,7 @@
 '   options を使用すると、 すべての要素を選択しない限りこの関数の返り値は文字列となります。 
 '【処理】
 '  pathinfo() は、path  に関する情報を有する連想配列を返します。
-' File_System class(http://phpvbs.verygoodtown.com/)内での処理
+' File_System class(https://github.com/masayukiando/phpvbs/blob/master/functions/filesystem/FileSystem.class.vbs)内での処理
 '=======================================================================
 
 Const PATHINFO_DIRNAME = 1

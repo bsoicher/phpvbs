@@ -7,7 +7,7 @@
 '  読み込んだデータを返します。失敗した場合は FALSE を返します。
 '【処理】
 '  ファイルの内容を文字列に読み込む
-' File_System class(http://phpvbs.verygoodtown.com/)内での処理
+' File_System class(https://github.com/masayukiando/phpvbs/blob/master/functions/filesystem/FileSystem.class.vbs)内での処理
 '=======================================================================
 Public function file_get_contents(filename)
 

@@ -7,7 +7,7 @@
 '  読み込んだフィールドの内容を含む数値添字配列を返します。
 '【処理】
 '  fgets() に動作は似ていますが、 fgetcsv() は行を CSV  フォーマットのフィールドとして読込み処理を行い、 読み込んだフィールドを含む配列を返すという違いがあります。
-' File_System class(http://phpvbs.verygoodtown.com/)内での処理
+' File_System class(https://github.com/masayukiando/phpvbs/blob/master/functions/filesystem/FileSystem.class.vbs)内での処理
 '=======================================================================
 Public Function fgetcsv(delim)
 

@@ -7,7 +7,7 @@
 '  ファイルポインタが EOF に達しているかまたはエラー (ソケットタイムアウトを含みます) の場合に TRUE 、 その他の場合に FALSE を返します。
 '【処理】
 '  ファイルポインタがファイル終端に達しているかどうかを調べます。
-' File_System class(http://phpvbs.verygoodtown.com/)内での処理
+' File_System class(https://github.com/masayukiando/phpvbs/blob/master/functions/filesystem/FileSystem.class.vbs)内での処理
 '=======================================================================
 Public function feof
     feof = ts.AtEndofStream

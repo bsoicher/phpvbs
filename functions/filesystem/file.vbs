@@ -9,7 +9,7 @@
 '  改行記号はついたままとなります。 失敗すると file() は FALSE を返します。
 '【処理】
 '  ファイル全体を配列に読み込みます。
-' File_System class(http://phpvbs.verygoodtown.com/)必須
+' File_System class(https://github.com/masayukiando/phpvbs/blob/master/functions/filesystem/FileSystem.class.vbs)内での処理
 '=======================================================================
 
 Const FILE_IGNORE_NEW_LINES = 2

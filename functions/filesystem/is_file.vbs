@@ -7,7 +7,7 @@
 '  ファイルが存在し、かつそれが通常のファイルである場合に TRUE、 それ以外の場合に FALSE を返します。
 '【処理】
 '  指定したファイルが通常のファイルかどうかを調べます。
-' File_System class(http://phpvbs.verygoodtown.com/)内での処理
+' File_System class(https://github.com/masayukiando/phpvbs/blob/master/functions/filesystem/FileSystem.class.vbs)内での処理
 '=======================================================================
 Public Function is_file(ByVal filename)
 

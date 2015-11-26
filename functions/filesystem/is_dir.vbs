@@ -7,7 +7,7 @@
 '  ファイルがが存在して、かつそれがディレクトリであれば TRUE、それ以外の場合は FALSE を返します。
 '【処理】
 '  指定したファイルがディレクトリかどうかを調べます。
-' File_System class(http://phpvbs.verygoodtown.com/)内での処理
+' File_System class(https://github.com/masayukiando/phpvbs/blob/master/functions/filesystem/FileSystem.class.vbs)内での処理
 '=======================================================================
 Public Function is_dir(filename)
 

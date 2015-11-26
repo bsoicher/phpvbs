@@ -7,7 +7,7 @@
 '  ファイルポインタから 1 行取得する
 '【処理】
 '  ファイルポインタから 1 行取得します。
-' File_System class(http://phpvbs.verygoodtown.com/)内での処理
+' File_System class(https://github.com/masayukiando/phpvbs/blob/master/functions/filesystem/FileSystem.class.vbs)内での処理
 '=======================================================================
 Public function fgets
     fgets = ts.ReadLine

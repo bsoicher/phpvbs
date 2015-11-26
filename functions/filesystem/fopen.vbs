@@ -8,7 +8,7 @@
 '  成功した場合にファイルポインタリソースを返します。
 '【処理】
 '  fopen() は、filename  で指定されたリソースをストリームに結び付けます。
-' File_System class(http://phpvbs.verygoodtown.com/)内での処理
+' File_System class(https://github.com/masayukiando/phpvbs/blob/master/functions/filesystem/FileSystem.class.vbs)内での処理
 '=======================================================================
 Public function fopen(filename, mode)
 

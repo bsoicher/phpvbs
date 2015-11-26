@@ -9,7 +9,7 @@
 '  書き込んだ文字列の長さを返します。失敗した場合は FALSE を返します。
 '【処理】
 '  fputcsv() は、行（fields  配列として渡されたもの）を CSV としてフォーマットし、それを ファイルに書き込みます (いちばん最後に改行を追加します)。
-' File_System class(http://phpvbs.verygoodtown.com/)内での処理
+' File_System class(https://github.com/masayukiando/phpvbs/blob/master/functions/filesystem/FileSystem.class.vbs)内での処理
 '=======================================================================
 Public function fputcsv(fields,delimiter,enclosure)
 
